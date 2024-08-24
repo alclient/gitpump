@@ -1,7 +1,7 @@
 # gitpump
 
 
-![alt gitpump](https://avatars.githubusercontent.com/u/132487802?v=4)
+![alt gitpump]((https://raw.githubusercontent.com/alclient/gitpump/main/Untitled.png)
 
 
 gitpump 💊
