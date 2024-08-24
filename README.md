@@ -8,7 +8,7 @@ gitpump 💊
 
 gitpump on pump.fun
 
-https://pump.fun/
+[https://pump.fun/](https://pump.fun/5mmc3n57QPJ2cN3Dx94ZkzdB5kS415utRGu5E5yPcY4E)
 
 
 ``` // ༼ つ ◕_◕ ༽つ PUMP Gitpump Chat
